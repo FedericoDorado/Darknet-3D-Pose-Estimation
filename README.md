@@ -2,6 +2,9 @@
 
 The Darknet ROS 3D code has been used as a starting point to be integrated into a Kinect v2. From this, the code has been modified to detect bottles as test objects and PCA algorithms have been implemented to obtain their pose, in order to be sent to a 6DOF manipulator robot to perform pick and place tasks.
 
+[Video Demo](https://youtu.be/MdDETKCAYUI?si=TRMadi8ZyWpPkZ59 "Video Demo")
+
+
 #### Pose of a detected bottle
 ![](https://github.com/FedericoDorado/Darknet-3D-Pose-Estimation/blob/main/Perception%20system%20images/Pose.png?raw=true)
 
@@ -14,9 +17,9 @@ The Darknet ROS 3D code has been used as a starting point to be integrated into 
 
 ![](https://github.com/FedericoDorado/Darknet-3D-Pose-Estimation/blob/main/Perception%20system%20images/Perception_system.png?raw=true)
 
-## Installation using Docker
+## Download using Docker
 
-The package can be tested by easily installing it using Docker. For this you can download the container by typing in an ubuntu terminal:
+The package can also be downloaded using Docker. For this you can download the container by typing in an ubuntu terminal:
 
 `docker pull federico99/centauri_ros2_foxy:perception`
 
