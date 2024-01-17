@@ -2,7 +2,7 @@
 
 The Darknet ROS 3D code has been used as a starting point to be integrated into a Kinect v2. From this, the code has been modified to detect bottles as test objects and PCA algorithms have been implemented to obtain their pose, in order to be sent to a 6DOF manipulator robot to perform pick and place tasks.
 
-[Video Demo](https://youtu.be/MdDETKCAYUI?si=TRMadi8ZyWpPkZ59 "Video Demo")
+[Demo video](https://youtu.be/MdDETKCAYUI?si=TRMadi8ZyWpPkZ59 "Demo VIdeo")
 
 
 #### Pose of a detected bottle
